@@ -1,0 +1,47 @@
+#main {
+  padding: 10px;
+  margin: 10px 5px;
+  background-color: #eee;
+  font-family: sans-serif;
+  text-align: center;
+}
+#title {
+  text-align: center;
+  padding: 20px;
+}
+#img-div {
+  margin:5px;
+  background: #fff;
+  padding: 5px;
+}
+#tribute-info li{
+  text-align: left;
+  padding: 10px;
+}
+.main {
+  margin: 0 auto;
+  width: 615px;
+}
+/*=========responsive==============*/
+@media screen and (max-width:615px){
+  .main {width:100%;}
+}
+/*==============================*/
+.main h3 {
+  padding: 40px;
+}
+.description{
+  text-align: left;
+   padding: 10px;
+   font-style: italic;
+   margin: 40px auto;
+   width: 570px;
+ }
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin:0 auto;
+}
+
+   
